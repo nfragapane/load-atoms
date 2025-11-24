@@ -16,6 +16,12 @@ These can be downloaded from the internet (and cached locally) using
       - # Structures
       - License
       - Year
+    * - :doc:`LiPS-25 <../datasets/LiPS-25>`
+      - Li, P, S
+      - 531,576
+      - 12,525
+      - None
+      - 2025
     * - :doc:`a-Si-24 <../datasets/a-Si-24>`
       - Si
       - 1,317,240
