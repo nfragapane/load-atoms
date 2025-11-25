@@ -16,12 +16,6 @@ These can be downloaded from the internet (and cached locally) using
       - # Structures
       - License
       - Year
-    * - :doc:`LiPS-25 <../datasets/LiPS-25>`
-      - Li, P, S
-      - 531,576
-      - 12,525
-      - None
-      - 2025
     * - :doc:`a-Si-24 <../datasets/a-Si-24>`
       - Si
       - 1,317,240
@@ -76,6 +70,12 @@ These can be downloaded from the internet (and cached locally) using
       - 2,692
       - `CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/deed.en>`_
       - 2022
+    * - :doc:`LiPS-25 <../datasets/LiPS-25>`
+      - Li, P, S
+      - 531,576
+      - 12,525
+      - None
+      - 2025
     * - :doc:`P-GAP-20 <../datasets/P-GAP-20>`
       - P
       - 140,910
